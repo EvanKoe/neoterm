@@ -31,7 +31,7 @@ GitHub for this repository:
 [Plugin|Plug|...] 'kassio/neoterm'
 ```
 
-See the your plugin manager documentation for more information.
+See the man of your plugin manager documentation for more information.
 
 ### Manual
 
